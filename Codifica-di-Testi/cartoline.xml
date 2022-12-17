@@ -22,31 +22,6 @@
 				</respStmt>
 			</titleStmt>
 
-			<editionStmt> <!-- (dichiarazione sull'edizione) raggruppa le informazioni riguardo una edizione di un testo. -->
-				<edition>Studenti iscritti al corso di studi di Informatica Umanistica, Università di Pisa.
-					<date when="2022-12">Dicembre 2022</date>
-				</edition>
-				<respStmt>
-					<resp>codifica di:</resp>
-					    <name ref="#MCB">Maria Chiara Bertagni, </name>
-					    <name ref="#CT">Claudio Tamburini e </name> 
-					    <name ref="#AT">Aurora Toti</name>
-				</respStmt>
-				<respStmt>
-					<resp>Compilato da:</resp>
-					    <name ref="#TC">Tommaso Castagneto </name>
-				</respStmt>
-				<respStmt>
-					<resp>Responsabile scientifico:</resp>
-					    <name ref="#GP">Paolicchi G. ,</name>
-					    <name ref="#ES">Salvatori E.</name>
-				</respStmt>
-				<respStmt>
-					<resp>Funzionario responsabile:</resp>
-					    <name ref="#ER">Ratti E.</name>
-				</respStmt>
-			</editionStmt>
-
 			<publicationStmt> <!-- (dichiarazione sulla pubblicazione) raggruppa le informazioni riguardo la pubblicazione o la distribuzione di un documento elettronico o di altra natua. -->
 				<publisher>Università di Pisa</publisher> <!-- Ente o persona che ha pubblicato il documento -->
                 <pubPlace>Pisa</pubPlace> <!-- Luogo di pubblicazione -->
